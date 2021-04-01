@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lxxxxxalala
 tralalalalala
 nog maar iets hoi aan toeveogen, terwijl jullie het verwijderd hebben
@@ -5,3 +6,11 @@ nog maar iets hoi aan toeveogen, terwijl jullie het verwijderd hebben
 extra regel
 I feel conflicted φ(゜▽゜*)♪
 Test merge conflict
+=======
+
+lalala
+tralala
+nog maar iets aan toeveogen, terwijl jullie het verwijderd hebben
+
+verandert
+>>>>>>> f78aa8c835b2e0b6e18c32154049cb19095ce871
